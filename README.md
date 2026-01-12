@@ -22,8 +22,9 @@ A full-stack To-Do application built as part of a technical assessment.
 ```bash
 cd backend
 python app.py
-
+```
 ### Frontend
+```bash
 cd frontend
 npm install
 npm run dev
